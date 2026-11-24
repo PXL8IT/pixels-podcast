@@ -4,14 +4,14 @@
      xmlns:atom="http://www.w3.org/2005/Atom"
      xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
-    <title>PIXELS: The Business &amp; Technology of Photography</title>
+    <title>Pixels &amp; Prompts: The Business &amp; Technology of Photography</title>
     <link>https://pxl8it333.com</link>
     <atom:link href="https://pxl8it.github.io/pixels-podcast/feed.xml" rel="self" type="application/rss+xml"/>
-    <description>The podcast edition of PIXELS, the PXL8IT Productions newsletter — the business and technology of photography, from a working photographer in Central Florida. Systems, money, marketing, and the AI team behind the scenes.</description>
+    <description>The podcast edition of Pixels &amp; Prompts, the PXL8IT Productions newsletter — the business and technology of photography, from a working photographer in Central Florida. Systems, money, marketing, and the AI team behind the scenes.</description>
     <language>en-us</language>
     <copyright>PXL8IT Productions</copyright>
     <itunes:author>Jason Row</itunes:author>
-    <itunes:summary>The podcast edition of PIXELS, the PXL8IT Productions newsletter — the business and technology of photography, from a working photographer in Central Florida. Systems, money, marketing, and the AI team behind the scenes.</itunes:summary>
+    <itunes:summary>The podcast edition of Pixels &amp; Prompts, the PXL8IT Productions newsletter — the business and technology of photography, from a working photographer in Central Florida. Systems, money, marketing, and the AI team behind the scenes.</itunes:summary>
     <itunes:owner>
       <itunes:name>Jason Row</itunes:name>
       <itunes:email>pxl8it@icloud.com</itunes:email>
@@ -24,14 +24,14 @@
     <itunes:image href="https://pxl8it.github.io/pixels-podcast/cover-pixel.jpg"/>
     <image>
       <url>https://pxl8it.github.io/pixels-podcast/cover-pixel.jpg</url>
-      <title>PIXELS: The Business &amp; Technology of Photography</title>
+      <title>Pixels &amp; Prompts: The Business &amp; Technology of Photography</title>
       <link>https://pxl8it333.com</link>
     </image>
 
     <item>
       <title>PIXELS #1: How I Set Up an AI Team to Run My Photography Business</title>
-      <description>The podcast edition of PIXELS, the PXL8IT Productions newsletter. Jason Row's system: an AI operator, a team with lanes, written briefs with deadlines, real payment plumbing, one voice on every channel, and rules with teeth.</description>
-      <itunes:summary>The podcast edition of PIXELS, the PXL8IT Productions newsletter. Jason Row's system: an AI operator, a team with lanes, written briefs with deadlines, real payment plumbing, one voice on every channel, and rules with teeth.</itunes:summary>
+      <description>The podcast edition of Pixels &amp; Prompts, the PXL8IT Productions newsletter. Jason Row's system: an AI operator, a team with lanes, written briefs with deadlines, real payment plumbing, one voice on every channel, and rules with teeth.</description>
+      <itunes:summary>The podcast edition of Pixels &amp; Prompts, the PXL8IT Productions newsletter. Jason Row's system: an AI operator, a team with lanes, written briefs with deadlines, real payment plumbing, one voice on every channel, and rules with teeth.</itunes:summary>
       <pubDate>Mon, 23 Nov 2026 14:27:37 GMT</pubDate>
       <enclosure url="https://muse.ai/podcasts/media/1253019404552482/089ad539-9926-4744-8c80-0a3dbc7645e3/ep-25a79ee6-3fe1-45c6-904a-694af05e18a6.mp3" length="3665893" type="audio/mpeg"/>
       <guid isPermaLink="false">ep-25a79ee6-3fe1-45c6-904a-694af05e18a6</guid>
